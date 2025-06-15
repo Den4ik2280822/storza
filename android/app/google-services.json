@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433981900087",
+    "project_id": "storza-mygrcx",
+    "storage_bucket": "storza-mygrcx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433981900087:android:e3649dae82ce3c92a786b2",
+        "android_client_info": {
+          "package_name": "com.kuperso.storza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtWZ1EOZX24Vq719hwuQ5vx4gWxJz0nBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
